@@ -10,7 +10,7 @@
 5. **Random Delay** - Implements random delays to mimic human behavior.
 
 ## Contact:
-If you want to purchase, contact me via Telegram: [@alexrony21](https://t.me/alexrony21)
+If you want to purchase, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Supported Domain:
 --fastmail.com
